@@ -386,7 +386,7 @@ export const Blackjack = () => {
               新しいゲーム
             </button>
             <Link
-              to="/"
+              to="/card_games"
               className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full mt-4 focus:outline-none focus:ring-2 focus:ring-blue-400"
             >
               タイトルに戻る

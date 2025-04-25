@@ -352,7 +352,7 @@ export const Poker = () => {
           新しいゲーム
         </button>
         <Link
-          to="/"
+          to="/card_games"
           className="inline-block bg-blue-500 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-full shadow-md focus:outline-none focus:ring-2 focus:ring-blue-400 mt-2"
         >
           タイトルに戻る

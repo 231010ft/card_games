@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/card_games/static/js/main.32613936.js",
+    "main.js": "/card_games/static/js/main.ce9157df.js",
     "static/media/card_back.png": "/card_games/static/media/card_back.9a5a8084ec80560f39b2.png",
     "index.html": "/card_games/index.html",
-    "main.32613936.js.map": "/card_games/static/js/main.32613936.js.map"
+    "main.ce9157df.js.map": "/card_games/static/js/main.ce9157df.js.map"
   },
   "entrypoints": [
-    "static/js/main.32613936.js"
+    "static/js/main.ce9157df.js"
   ]
 }
