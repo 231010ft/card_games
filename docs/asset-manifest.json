@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/card_games/static/js/main.7465a9b1.js",
+    "static/media/card_back.png": "/card_games/static/media/card_back.9a5a8084ec80560f39b2.png",
+    "index.html": "/card_games/index.html",
+    "main.7465a9b1.js.map": "/card_games/static/js/main.7465a9b1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7465a9b1.js"
+  ]
+}
