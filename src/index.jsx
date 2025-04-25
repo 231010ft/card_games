@@ -15,7 +15,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/card_game" element={<App />} /> {/* タイトル画面へのルート */}
+        <Route path="/card_games" element={<App />} /> {/* タイトル画面へのルート */}
         <Route path="/blackjack" element={<Blackjack />} /> {/* ブラックジャック画面へのルート */}
         <Route path="/poker" element={<Poker />} />
         <Route path="/high_low" element={<HighLow />} />
